@@ -1,0 +1,28 @@
+name: Mercantile Foods
+favicon: null
+layout_spectrum: 0.08956813579425216
+typography_spectrum: 0.44907022430561483
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8109500026330352
+  lightness: 0.4976796614937484
+  saturation: 0.06605854188092053
+  rhythmicContrast: 0.16722355061210692
+purpose: []
